@@ -1,5 +1,5 @@
 title: XI Fórum de Tecnologia em Software Livre
-description: "O maior evento gratuito de Software Livre do país."
+description: "O promotor regional da ConFLOSS – Conferência De Free/Libre E Open Source Software."
 baseurl: "/ftsl11" # the subpath of your site, e.g. /blog
 url: "http://ftsl.org.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "forumslcuritiba"
@@ -15,7 +15,7 @@ exclude:
   - Gemfile.lock
 
 collections:
-  convidados:
+  integrantes:
     output: true
 
 feed:
